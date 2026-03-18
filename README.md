@@ -9,7 +9,7 @@
 ## 📚 Portfolio & Articles
 
 <p>
-  <a href="https://dkethan.github.io/kethandosapati/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://dkethan.github.io/portfolio/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://medium.com/@kethandosapati" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p> 
 
@@ -26,7 +26,7 @@
 ## 💻 My Projects
 
 <p>
-  <a href="https://github.com/DKethan" target="_blank"><img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/dkethan" target="_blank"><img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://pypi.org/user/dkethan/" target="_blank"><img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" /></a>
   <a href="https://huggingface.co/DKethan" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
   <a href="https://share.streamlit.io/user/dkethan" target="_blank"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
